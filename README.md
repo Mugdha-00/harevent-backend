@@ -81,3 +81,43 @@ See [docs/API.md](docs/API.md).
 - Category deletion is blocked while vendors still use that category.
 - Vendor search uses escaped, case-insensitive regex so user input can't inject patterns.
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/87d77a94-5199-4b30-ad59-29b9146fd1be" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/17c4d52a-aadf-4fbe-9506-5d1f895ac9b6" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/c3c08087-d68e-4135-821d-1fc1c641d0e8" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/098fb5c6-2cfd-4481-9f3a-833d29e8e148" />
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a28e0c51-5ec7-4644-92dd-2d3581c3616a" />
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/46a3782a-10bf-459b-a888-8575c184ec3c" />
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/f6271beb-0bf5-4d16-a0a3-2ce8b730dba4" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/55a29a5e-dae7-419e-9e07-f8d9fb79f2f0" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/489efa84-87d0-47cd-8521-bf50b5e80f3d" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/39d3b819-1e2c-4c82-8d51-e0905b4ef43c" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/fe29186f-d2ce-465a-9f1e-f7963123c83a" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/7ec5f324-e6e1-4575-a3cb-3aed1fc93b9f" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/394030c2-1649-466a-9312-685ed704a20a" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/9712f899-c1ad-44cc-9791-c85e079a3cac" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/50139dda-5989-4f11-a794-f257a64ef9ab" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/75280baa-d4d7-4439-9eff-dc958470f15a" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/370401e0-f4dc-4d3b-9a12-0294e7990f58" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/1965c046-b938-461d-a5f9-72c4418e6541" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/5e116560-04f1-47b6-a83e-4b0187d2c7b2" />
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/1e18daf4-9be8-4fe5-a6bb-0964bb2c3556" />
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/d7cfe826-bac3-4a94-a689-1b203a2a345e" />
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/5a5e4ec7-f05b-46a2-a1fd-0083bdf4bd4f" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/3fa38376-9528-4103-9067-d2af7deab9c5" />
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/9c86b555-f71f-4dae-bd94-c271e72f2e4a" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/0abf5e2d-47f9-4ce6-a768-cc9a237f3274" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
