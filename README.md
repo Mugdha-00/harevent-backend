@@ -80,3 +80,4 @@ See [docs/API.md](docs/API.md).
 - Users cannot choose their own role at signup; admins come from the seed script only.
 - Category deletion is blocked while vendors still use that category.
 - Vendor search uses escaped, case-insensitive regex so user input can't inject patterns.
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/87d77a94-5199-4b30-ad59-29b9146fd1be" />
